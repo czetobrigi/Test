@@ -1,4 +1,3 @@
-{
 	"places": [
 	{
 		"nameOfPlace": "Kitchen of Health Bisztró II.",
@@ -90,16 +89,4 @@
 		}
 		"specialities": [1,34]
 	},
-	{
-		"nameOfPlace": "",
-		"type": "",
-		"address": {
-			"postcode": ,
-			"city": "",
-			"address1": "",
-		}
-		"specialities": []
-	},
-	
  ]
-}
